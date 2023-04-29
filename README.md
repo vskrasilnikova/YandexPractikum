@@ -1,5 +1,4 @@
 # Проекты выполненные в процессе обучения на платформе Яндекс Практикум
 |Название проекта|Описание проекта|Навыки и инструменты|
 |----------------|----------------|--------------------|
-|[Музыка больших городов](https://github.com/vskrasilnikova/YandexPractikum/blob/main/music_project/music_project.ipynb)|Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов|Python
-Pandas|
+|[Музыка больших городов](https://github.com/vskrasilnikova/YandexPractikum/blob/main/music_project/music_project.ipynb)|Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов|Python Pandas|
