@@ -2,3 +2,4 @@
 |Название проекта|Описание проекта|Навыки и инструменты|
 |----------------|----------------|--------------------|
 |[Музыка больших городов](https://github.com/vskrasilnikova/YandexPractikum/blob/main/music_project/music_project.ipynb)|Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов|Python Pandas|
+|[Исследование надежности заемщиков](https://github.com/vskrasilnikova/YandexPractikum/blob/main/bank_project/bank_project.ipynb)|На основе данных кредитного отдела банка проанализировать надежность заемщиков|предобработка данных Python Pandas|
